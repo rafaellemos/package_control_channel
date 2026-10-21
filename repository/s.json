@@ -177,8 +177,8 @@
 			"labels": ["language syntax", "snippets", "build system"],
 			"releases": [
 				{
-					"sublime_text": ">=4107",
-					"python_versions": ["3.3", "3.8", "3.14"],
+					"sublime_text": ">=4171",
+					"python_versions": ["3.8", "3.14"],
 					"tags": true
 				}
 			]
