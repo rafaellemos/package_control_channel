@@ -178,7 +178,6 @@
 			"releases": [
 				{
 					"sublime_text": ">=4171",
-					"python_versions": ["3.8", "3.14"],
 					"tags": true
 				}
 			]
