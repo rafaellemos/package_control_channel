@@ -171,7 +171,7 @@
 		},
 		{
 			"name": "Santafe",
-			"description": "Santafé syntax, snippets and optional SLS 1.0 integration.",
+			"description": "Santafé 3 and ONFÉ syntax, snippets and optional SLS 1.1 integration.",
 			"details": "https://github.com/rafaellemos/santafe-sublime",
 			"author": "Rafael Alves Lemos",
 			"labels": ["language syntax", "snippets", "build system"],
